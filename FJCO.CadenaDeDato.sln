@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJCO.CadenaDeDato", "FJCO.CadenaDeDato\FJCO.CadenaDeDato.csproj", "{982C3D96-7E5D-482E-A0E8-2691E0EBD42A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FJCO.CadenaDeDato.xUnit", "FJCO.CadenaDeDato.xUnit\FJCO.CadenaDeDato.xUnit.csproj", "{6B49CE83-6E72-46CE-A694-09012EF23E77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{982C3D96-7E5D-482E-A0E8-2691E0EBD42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{982C3D96-7E5D-482E-A0E8-2691E0EBD42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{982C3D96-7E5D-482E-A0E8-2691E0EBD42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B49CE83-6E72-46CE-A694-09012EF23E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B49CE83-6E72-46CE-A694-09012EF23E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B49CE83-6E72-46CE-A694-09012EF23E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B49CE83-6E72-46CE-A694-09012EF23E77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
